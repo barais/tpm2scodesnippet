@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13/trunk/core/src/main/java/org/gwtrpc4j
+END
+RequestBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9/trunk/core/src/main/java/org/gwtrpc4j/RequestBuilderFactory.java
+END
+RpcServiceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/11/trunk/core/src/main/java/org/gwtrpc4j/RpcServiceProxy.java
+END
+RpcServiceProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/13/trunk/core/src/main/java/org/gwtrpc4j/RpcServiceProxyFactory.java
+END
+JRpcServiceProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13/trunk/core/src/main/java/org/gwtrpc4j/JRpcServiceProxy.java
+END

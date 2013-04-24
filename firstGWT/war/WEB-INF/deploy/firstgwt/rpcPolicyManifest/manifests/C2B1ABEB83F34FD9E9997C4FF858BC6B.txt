@@ -1,0 +1,2 @@
+serviceClass: fr.istic.gla.client.GreetingService
+path: 2DEA0CE6879872E76E0D2617CFDDA762.gwt.rpc

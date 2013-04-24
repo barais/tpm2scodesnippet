@@ -1,0 +1,19 @@
+RoadMap
+--------
+
+- cleanup: eclipse formatter, checkstyle
+- covertura
+- http header OK
+- coockie OK
+- user/password
+- timeout  OK
+- https
+
+BUG:
+- active the validateDeserialize Policy : read file from the server
+
+
+- make some other RcpRequestBuilder: nio, netty...
+- use Future for the call back
+- make a connecter for jmeter
+- add compatibilite to rpc2.0

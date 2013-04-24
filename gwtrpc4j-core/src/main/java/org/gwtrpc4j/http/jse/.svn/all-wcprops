@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13/trunk/core/src/main/java/org/gwtrpc4j/http/jse
+END
+JSERequestBuilderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13/trunk/core/src/main/java/org/gwtrpc4j/http/jse/JSERequestBuilderFactory.java
+END
+CookieStoreThreadLocal.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/core/src/main/java/org/gwtrpc4j/http/jse/CookieStoreThreadLocal.java
+END
+JSERequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/11/trunk/core/src/main/java/org/gwtrpc4j/http/jse/JSERequestBuilder.java
+END
+CookieManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/11/trunk/core/src/main/java/org/gwtrpc4j/http/jse/CookieManager.java
+END

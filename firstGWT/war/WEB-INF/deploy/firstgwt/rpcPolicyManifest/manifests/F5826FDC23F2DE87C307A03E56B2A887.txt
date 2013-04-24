@@ -1,0 +1,2 @@
+serviceClass: fr.istic.gla.client.ManageData
+path: C91F36499F7F84EA25D8B37D63D19DE2.gwt.rpc

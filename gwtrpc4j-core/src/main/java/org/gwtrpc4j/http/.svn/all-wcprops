@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13/trunk/core/src/main/java/org/gwtrpc4j/http
+END
+RpcHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/core/src/main/java/org/gwtrpc4j/http/RpcHeader.java
+END
+RequestBuilderAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9/trunk/core/src/main/java/org/gwtrpc4j/http/RequestBuilderAbstract.java
+END
+RpcResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/11/trunk/core/src/main/java/org/gwtrpc4j/http/RpcResponse.java
+END
+RpcRequestBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9/trunk/core/src/main/java/org/gwtrpc4j/http/RpcRequestBuilder.java
+END
+RequestCallbackAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/11/trunk/core/src/main/java/org/gwtrpc4j/http/RequestCallbackAdapter.java
+END

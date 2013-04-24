@@ -1,0 +1,15 @@
+generate javafrom idlj
+
+idlj -fall Hello.idl
+
+run orbd
+
+orbd -ORBInitialPort 1050 -ORBInitialHost localhost&
+
+run server
+  java HelloServer -ORBInitialPort 1050 -ORBInitialHost localhost&
+
+
+run client
+  java HelloClient -ORBInitialPort 1050 -ORBInitialHost localhost
+
